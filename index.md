@@ -17,7 +17,7 @@
 - 이미지  
 <img src="./img/unnamed.jpg">
 - 동영상
-[![](./img/그림.png)](https://www.youtube.com/watch?v=5xy4n73WOMM)
+[![](./img/그림.png)](https://www.youtube.com/watch?v=68LzR-kAtHk&ab_channel=%EC%8B%9C%EB%B0%94%EC%8A%A4)
 
 <br><br>
 # [대표 이미지]
