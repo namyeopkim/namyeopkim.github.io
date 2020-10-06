@@ -74,3 +74,10 @@
 <img src="./img/unnamed1.jpg">
 
 ### 2.오브젝트 이름: 메뉴
+<img src="./img/game-menu-thumb.jpg">
+
+### 3.오브젝트 이름: 배경
+<img src="./img/821759867_640x360.jpg">
+
+### 4.오브젝트 이름: 점수판
+<img src="./img/c6027a33-d9fa-42fa-82b1-9a4df5c32b30.jpg">
