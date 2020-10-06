@@ -71,5 +71,5 @@
 
 ## 게임 오브젝트 분해
 ### 1.오브젝트 이름: 행성(플레이어)
-<img src="./img/unnamed.jpg">
+<img src="./img/unnamed1.jpg">
 
