@@ -80,4 +80,4 @@
 <img src="./img/821759867_640x360.jpg">
 
 ### 4.오브젝트 이름: 점수판
-<img src="./img/c6027a33-d9fa-42fa-82b1-9a4df5c32b30.jpg">
+<img src="./img/c6027a33-d9fa-42fa-82b1-9a4df5c32b30.png">
